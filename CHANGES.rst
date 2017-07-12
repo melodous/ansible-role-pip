@@ -21,7 +21,7 @@ Changed
 
 - First change
 
-pip v0.0.0 - DATE
+pip v0.0.1 - 2017/07/12
 ---------------------------------------
 
 Added
