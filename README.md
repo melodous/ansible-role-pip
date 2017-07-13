@@ -48,8 +48,6 @@ Example:
 
 Example:
 
-    pip_proxy_url: http://artifactory.yourdomain.com/artifactory/api/pypi/MyPyPi/simple
-
 Changelog
 ---------
 

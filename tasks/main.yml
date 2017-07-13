@@ -6,4 +6,3 @@
 - name: Configure pypi proxy_cache
   template: src=pip.conf.j2 dest=/etc/pip.conf owner=root group=root mode=0750
   when: pip_proxy
-

@@ -20,9 +20,10 @@ pip management
 
 Example:
 
-::
+.. code:: yaml
 
-  pip_proxy: artifactory.yourdomain.com
+   pip_proxy: artifactory.yourdomain.com
+
 
 
 
@@ -38,9 +39,10 @@ Example:
 
 Example:
 
-::
+.. code::yaml
 
-  pip_proxy_url: http://artifactory.yourdomain.com/artifactory/api/pypi/MyPyPi/simple
+   pip_proxy_url: http://artifactory.yourdomain.com/artifactory/api/pypi/MyPyPi/simple
+
 
 
 

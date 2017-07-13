@@ -18,7 +18,11 @@ pip_proxy: false
 #
 # Example:
 #
-pip_proxy: artifactory.yourdomain.com
+# .. code:: yaml [[[
+#
+#    pip_proxy: artifactory.yourdomain.com
+#
+# ]]]
 #
 # ]]]
 
@@ -30,6 +34,10 @@ pip_proxy_url: false
 #
 # Example:
 #
-pip_proxy_url: http://artifactory.yourdomain.com/artifactory/api/pypi/MyPyPi/simple
+# .. code::yaml [[[
+#
+#    pip_proxy_url: http://artifactory.yourdomain.com/artifactory/api/pypi/MyPyPi/simple
+#
+# ]]]
 #
 # ]]]
