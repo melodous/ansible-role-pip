@@ -21,11 +21,20 @@ Changed
 
 - First change
 
+pip v0.0.2 - 2017/07/17
+---------------------------------------
+
+Changed
+~~~~~~~
+
+- Fixed configure without proxy
+
+
 pip v0.0.2 - 2017/07/13
 ---------------------------------------
 
 Added
-~~~~
+~~~~~
 
 - Fixed doc
 - Fixed ansible lint
